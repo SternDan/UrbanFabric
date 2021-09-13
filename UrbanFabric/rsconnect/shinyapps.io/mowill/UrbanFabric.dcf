@@ -1,0 +1,14 @@
+name: UrbanFabric
+title: UrbanFabric
+username:
+account: mowill
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4504186
+bundleId: 5015541
+url: https://mowill.shinyapps.io/UrbanFabric/
+when: 1631187935.75321
+lastSyncTime: 1631187935.75323
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: BS_trans.R|data/material.txt|data/Surfaces_Berlin.rds
